@@ -1,0 +1,22 @@
+<svg width="1000.0000000000001" height="1000.0000000000001" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_1_blur">
+   <feGaussianBlur stdDeviation="5.3" in="SourceGraphic"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_3_blur">
+   <feGaussianBlur stdDeviation="6.7" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_13">
+   <g id="svg_9">
+    <path filter="url(#svg_1_blur)" id="svg_1" d="m500,882c-211.04972,0 -382,-170.95028 -382,-382c0,-211.04972 170.95028,-382 382,-382c211.04972,0 382,170.95028 382,382c0,211.04972 -170.95028,382 -382,382z" opacity="undefined" stroke-width="92" stroke="#077c13" fill="#ffffff"/>
+    <path stroke="#02840f" id="svg_2" d="m500,819.64036c-177.11129,0 -320.57145,-143.04347 -320.57145,-319.64034c0,-176.59687 143.46015,-319.64034 320.57145,-319.64034c177.11129,0 320.57145,143.04347 320.57145,319.64034c0,176.59687 -143.46015,319.64034 -320.57145,319.64034z" filter="url(#svg_1_blur)" opacity="undefined" stroke-width="88" fill="#ffffff"/>
+    <ellipse stroke="#02840f" filter="url(#svg_3_blur)" ry="257" rx="257" id="svg_3" cy="500.00001" cx="499.99999" stroke-width="27" fill="#147224"/>
+   </g>
+   <text transform="matrix(2.67483 0 0 2.67483 -447.415 -536.628)" stroke="#077c13" xml:space="preserve" text-anchor="start" font-family="'Brygada 1918'" font-size="116" id="svg_10" y="371.42054" x="223.26516" stroke-width="0" fill="#ffffff">Luce</text>
+   <text transform="matrix(2.67483 0 0 2.67483 -447.415 -536.628)" stroke="#077c13" xml:space="preserve" text-anchor="start" font-family="'Brygada 1918'" font-size="116" id="svg_11" y="484.64642" x="288.95753" stroke-width="0" fill="#ffffff">Yu</text>
+  </g>
+ </g>
+</svg>
